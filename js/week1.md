@@ -42,13 +42,33 @@
               <span>7、js语法规范运算符条件分支语句</span>
             </td>
         </tr>
+         <tr>
+            <td>2022.12.16</td>
+            <td>星期五</td>
+            <td>
+              <span>14:00-17:30</span>
+            </td>
+            <td>3.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/05_%E5%BE%AA%E7%8E%AF%E3%80%81%E5%BC%95%E7%94%A8%E5%80%BC%E3%80%81%E6%98%BE%E9%9A%90%E8%BD%AC%E6%8D%A2.md#%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5">循环语句</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/05_%E5%BE%AA%E7%8E%AF%E3%80%81%E5%BC%95%E7%94%A8%E5%80%BC%E3%80%81%E6%98%BE%E9%9A%90%E8%BD%AC%E6%8D%A2.md#%E6%98%BE%E9%9A%90%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2">显示类型和隐士类型转换</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、for循环求n的质数</span><br />
+              <span>2、for循环求n的兔子数列</span><br />
+              <span>3、for循环水仙花数</span><br />
+              <span>4、for循环99乘法表</span><br />
+              <span>5、显示类型转换和隐士类型转换</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 1 d
-- Total time: 6 h
-- Video time: 4.4 h
+- Total days: 2 d
+- Total time: 9.5 h
+- Video time: 6.6 h
 - Issues list:
-  - none
+  - for循环不使用变量置换如何实现兔子数列？
