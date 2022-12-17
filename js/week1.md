@@ -62,13 +62,34 @@
               <span>5、显示类型转换和隐士类型转换</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.17</td>
+            <td>星期六</td>
+            <td>
+              <span>14:00-18:30</span>
+            </td>
+            <td>4.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E5%87%BD%E6%95%B0">认识函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E5%87%BD%E6%95%B0%E5%86%99%E6%B3%95">函数写法</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E8%A1%8C%E5%8F%82%E5%92%8C%E5%AE%9E%E5%8F%82">函数行参和实参</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#return">return关键字</a>
+            </td>
+            <td>100%/95%</td>
+            <td>
+              <span>1、函数用来封装一个固定功能的代码块或程序</span><br />
+              <span>2、函数形参和实参的区别，堆栈内存以及映射关系，可通过arguments和函数名.length分别获取实参和形参列表</span><br />
+              <span>3、使用函数实现一个数的阶乘</span><br />
+              <span>4、使用函数实现接收一个n，算出斐波那契数列的第n位</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 2 d
-- Total time: 9.5 h
-- Video time: 6.6 h
+- Total days: 3 d
+- Total time: 14 h
 - Issues list:
-  - for循环不使用变量置换如何实现兔子数列？
+  - for 循环不使用变量置换如何实现兔子数列？
+  - 函数实现斐波那契数列为什么要用 (n-1)+(n-2) 的递归形式实现？
