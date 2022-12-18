@@ -71,8 +71,8 @@
             <td>4.5h</td>
             <td>
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E5%87%BD%E6%95%B0">认识函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E5%87%BD%E6%95%B0%E5%86%99%E6%B3%95">函数写法</a>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E8%A1%8C%E5%8F%82%E5%92%8C%E5%AE%9E%E5%8F%82">函数行参和实参</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E5%87%BD%E6%95%B0%E5%86%99%E6%B3%95">函数写法</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#%E8%A1%8C%E5%8F%82%E5%92%8C%E5%AE%9E%E5%8F%82">函数行参和实参</a><br />
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#return">return关键字</a>
             </td>
             <td>100%/95%</td>
@@ -83,13 +83,35 @@
               <span>4、使用函数实现接收一个n，算出斐波那契数列的第n位</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.18</td>
+            <td>星期日</td>
+            <td>
+              <span>14:00-18:30</span><br />
+              <span>19:30-20:30</span>
+            </td>
+            <td>5.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/07_%E9%A2%84%E7%BC%96%E8%AF%91.md#%E9%A2%84%E7%BC%96%E8%AF%91">预编译</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/07_%E9%A2%84%E7%BC%96%E8%AF%91.md#go">GO</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/07_%E9%A2%84%E7%BC%96%E8%AF%91.md#ao">AO</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/08_%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%93%BE.md">作用域和链</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、认识预编译</span><br />
+              <span>2、GO对象的创建过程</span><br />
+              <span>3、AO对象的创建过程</span><br />
+              <span>4、作用域和作用域链形成的过程</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 3 d
-- Total time: 14 h
+- Total days: 4 d
+- Total time: 19.5 h
 - Issues list:
   - for 循环不使用变量置换如何实现兔子数列？
   - 函数实现斐波那契数列为什么要用 (n-1)+(n-2) 的递归形式实现？
