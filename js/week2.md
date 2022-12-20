@@ -38,12 +38,34 @@
               <span>4、重新认识括号表达式，括号表达式包裹函数时将忽略函数名</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.20</td>
+            <td>星期二</td>
+            <td>
+              <span>14:00-18:00</span><br />
+              <span>19:30-21:30</span>
+            </td>
+            <td>6h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%AF%B9%E8%B1%A1">对象</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0">构造函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%8C%85%E8%A3%85%E7%B1%BB">包装类</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%8E%9F%E5%9E%8B">原型</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、创建对象的方式</span><br />
+              <span>2、构造函数创建对象默认return的是实例，如果指定return引用类型将覆盖默认返回值</span><br />
+              <span>3、原始值没有自身的方法和属性，但是通过包装类可以实现，包装类包含三种Number、Boolean、String</span><br />
+              <span>4、对象原型，通过构造函数创建对象身上会有一个__proto__属性指向它实例化时的prototype原型对象，原型对象身上有一个constructor属性指向的是构建时的构造函数</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 1 d
-- Total time: 5 h
+- Total days: 2 d
+- Total time: 11 h
 - Issues list:
   - none
