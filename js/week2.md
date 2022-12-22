@@ -25,10 +25,10 @@
             </td>
             <td>5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/09_%E9%97%AD%E5%8C%85.md#%E9%97%AD%E5%8C%85">闭包</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#iife">IIFE</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#iife">逗号运算符</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/06_%E5%87%BD%E6%95%B0.md#iife">括号表达式</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/closure.html">闭包</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/IIFE.html">IIFE</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/comma.operator.html">逗号运算符</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/parenthesis.operator.html">括号表达式</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -47,10 +47,10 @@
             </td>
             <td>6h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%AF%B9%E8%B1%A1">对象</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0">构造函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%8C%85%E8%A3%85%E7%B1%BB">包装类</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/10_%E5%AF%B9%E8%B1%A1.md#%E5%8E%9F%E5%9E%8B">原型</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.html">对象</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.html">构造函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.wrap.html">包装类</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.html">原型</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -60,12 +60,52 @@
               <span>4、对象原型，通过构造函数创建对象身上会有一个__proto__属性指向它实例化时的prototype原型对象，原型对象身上有一个constructor属性指向的是构建时的构造函数</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.21</td>
+            <td>星期三</td>
+            <td>
+              <span>10:00-11:30</span><br />
+              <span>14:00-18:00</span><br />
+              <span>20:30-23:30</span>
+            </td>
+            <td>8.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.html">原型链</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.create.html">原型继承</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/pure.fn.html">纯函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/callback.html">回调函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/call.apply.bind.html">call/apply</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、原型链是一个继承关系的链条，每个原型对象都有自己的原型 __proto__ 通过在原型对象身上查找属性和方法</span><br />
+              <span>2、通过 Object.create 方法可以将一个原型对象作为参数创建实例的原型</span><br />
+              <span>3、纯函数接收相同的输入产出相同的输出，不包含副作用</span><br />
+              <span>4、回调函数作为参数传递的函数，可指定事件触发程序的绑定函数</span><br />
+              <span>5、call和apply作为函数原型身上的方法，用来改变函数调用时的this指向</span>
+            </td>
+        </tr>
+        <tr>
+            <td>2022.12.22</td>
+            <td>星期四</td>
+            <td>
+              <span>10:00-12:00</span><br />
+            </td>
+            <td></td>
+            <td>
+              <a href="#"></a><br />
+            </td>
+            <td></td>
+            <td>
+              <span>忙工作，顺便整理笔记，回顾知识</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 2 d
-- Total time: 11 h
+- Total days: 3 d
+- Total time: 19.5 h
 - Issues list:
   - none
