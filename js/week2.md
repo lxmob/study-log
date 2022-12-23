@@ -7,7 +7,7 @@
         <tr>
             <th>Date</th>
             <th width="80">Week</th>
-            <th width="120">Learning time</th>
+            <th width="130">Learning time</th>
             <th width="80">How long time to learn</th>
             <th width="140">Learn what keywords</th>
             <th width="80">Completion / Mastery</th>
@@ -74,7 +74,8 @@
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.create.html">原型继承</a><br />
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/pure.fn.html">纯函数</a><br />
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/callback.html">回调函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/call.apply.bind.html">call/apply</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/call.apply.bind.html">call/apply</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.extend.grail.html">原型继承之圣杯模式</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -82,7 +83,8 @@
               <span>2、通过 Object.create 方法可以将一个原型对象作为参数创建实例的原型</span><br />
               <span>3、纯函数接收相同的输入产出相同的输出，不包含副作用</span><br />
               <span>4、回调函数作为参数传递的函数，可指定事件触发程序的绑定函数</span><br />
-              <span>5、call和apply作为函数原型身上的方法，用来改变函数调用时的this指向</span>
+              <span>5、call和apply作为函数原型身上的方法，用来改变函数调用时的this指向</span><br />
+              <span>6、原型继承之圣杯模式，通过作为中间件创建一个缓冲区域解决父子共用一个原型对象的问题</span>
             </td>
         </tr>
         <tr>
@@ -100,12 +102,36 @@
               <span>忙工作，顺便整理笔记，回顾知识</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.23</td>
+            <td>星期五</td>
+            <td>
+              <span>10:30-12:30</span><br />
+              <span>14:00-18:30</span>
+            </td>
+            <td>6.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/hasOwnProperty.html">forin</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/instanceof.html">instanceof</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/this.html">this</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/arrow.fn.html">箭头函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/callee.caller.html">callee/caller</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、通过forin可以迭代对象身上可枚举的属性，包括继承的属性</span><br />
+              <span>2、通过instanceof可以判断a对象是否在b构造函数的原型链上</span><br />
+              <span>3、函数声明中的this指向的是window（非严格模式），对象中函数方法中的this指向的是该对象，构造函数中的this指向的是当前实例，iife中的this指向的是window（非严格模式）</span><br />
+              <span>4、箭头函数中的this指向window，不具备原型对象不能够被new，没有arguments属性，箭头函数this是外部作用域的this指向</span><br />
+              <span>5、arguments.callee指向就是函数本身，caller是谁调用该函数指向的就是调用者</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 3 d
-- Total time: 19.5 h
+- Total days: 4 d
+- Total time: 26 h
 - Issues list:
   - none
