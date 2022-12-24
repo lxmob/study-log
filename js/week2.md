@@ -126,12 +126,31 @@
               <span>5、arguments.callee指向就是函数本身，caller是谁调用该函数指向的就是调用者</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.24</td>
+            <td>星期六</td>
+            <td>
+              <span>13:30-18:30</span>
+            </td>
+            <td>5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.clone.html">clone</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.clone.html">JSON序列化</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/array.method.html">array methods</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、对象拷贝，分为浅拷贝和深拷贝，浅拷贝拷贝引用类型时拷贝的只是引用地址，深拷贝可以拷贝多层引用类型嵌套的对象</span><br />
+              <span>2、使用JSON序列化的形式也可以实现对象的深拷贝，但是不能拷贝方法、undefined、symbol类型，正则会转换成空对象</span><br />
+              <span>3、数组增删改查的方法，改变数组类型的方法有push、pop、shift、unshift、splice、sort、reverse</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 4 d
-- Total time: 26 h
+- Total days: 5 d
+- Total time: 31 h
 - Issues list:
   - none
