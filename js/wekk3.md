@@ -24,8 +24,8 @@
             </td>
             <td>2.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/closure.html">类数组</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/IIFE.html">typeof增强实现</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/class.array.html">类数组</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/typeof.html">typeof增强实现</a>
             </td>
             <td>100%/100%</td>
             <td>
