@@ -35,7 +35,7 @@
         </tr>
         <tr>
             <td>2022.12.27</td>
-            <td>星期一</td>
+            <td>星期二</td>
             <td>
               <span>09:30-11:30</span><br />
               <span>14:00-16:30</span>
@@ -56,12 +56,34 @@
               <span>5、js垃圾回收机制分为两种方式，标记清除和引用计数，大多浏览器采用标记清除的方式，低版本ie6使用引用计数形式，引用计数方式会导致循环引用问题使变量无法被释放，导致内存泄露</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.28</td>
+            <td>星期三</td>
+            <td>
+              <span>14:00-18:00</span>
+            </td>
+            <td>4h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/array.unique.html">数组flatten</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.html">dom初识</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.selector.html">dom元素选择器</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.gc.html">dom操作节点树属性和方法</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、js中的三种对象包含本地对象、内置对象、宿主对象</span><br />
+              <span>2、dom是通过浏览器提供的一套方法表示或操作HTML和XML，它无法操作css样式，能改变元素的样式，是因为操作的是元素节点的属性style</span><br />
+              <span>3、获取元素节点的方法包含get*一系列的方法还有html5新引入的web-api（querySelector、querySelectorAll）</span><br />
+              <span>4、h5新引入的api相比较于get系列的优点是能够通过css选择器来获取对应的元素节点，缺点是性能差，不具备实时性存储的只是一块片段</span><br />
+              <span>5、节点不等于元素，节点中包含元素节点，节点包含（元素、属性、文本、注释、document、fragement）</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 1 d
-- Total time: 2.5 h
+- Total days: 3 d
+- Total time: 11 h
 - Issues list:
   - none
