@@ -78,12 +78,36 @@
               <span>5、节点不等于元素，节点中包含元素节点，节点包含（元素、属性、文本、注释、document、fragement）</span>
             </td>
         </tr>
+         <tr>
+            <td>2022.12.29</td>
+            <td>星期四</td>
+            <td>
+              <span>14:00-18:00</span>
+            </td>
+            <td>4h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.proto.html">dom结构树</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.operation.node.html">dom操作节点</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.operation.attr.html">dom属性</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.gc.html">dom操作节点树属性和方法</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.fragment.html">fragment文档碎片</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、dom结构树中存在多个构造函数，每个构造函数创建各个dom元素节点，通过原型链链接各个节点，最终都继承于Object.prototype</span><br />
+              <span>2、getElementById和getElementsByName特殊的方法，仅存在于Document.prototype身上</span><br />
+              <span>3、appendChild的特殊性，能够动态增加和剪切元素节点</span><br />
+              <span>4、removeChild的特殊性，删除的是当前的节点，而内存中的dom对象将保留，如果想彻底删除通过调用元素身上remove方法释放内存</span><br />
+              <span>5、HTML5给元素新增的自定义属性data-*属性，保存在当前元素节点下dataset对象中</span><br />
+              <span>6、文档碎片它的创建不存在dom节点树当中，暂存于内存当中，通过它可以解决回流的问题提升性能</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 3 d
-- Total time: 11 h
+- Total days: 4 d
+- Total time: 15 h
 - Issues list:
   - none
