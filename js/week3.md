@@ -102,12 +102,33 @@
               <span>6、文档碎片它的创建不存在dom节点树当中，暂存于内存当中，通过它可以解决回流的问题提升性能</span>
             </td>
         </tr>
+         <tr>
+            <td>2022.12.30</td>
+            <td>星期五</td>
+            <td>
+              <span>09:30-10:30</span><br />
+              <span>14:00-17:00</span>
+            </td>
+            <td>4.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/other/date.html">Date</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/other/math.html">Math</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/other/settimeout.html">定时器</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、Date日期对象，实现电子时钟和倒计时功能</span><br />
+              <span>2、getDay返回的是星期几（0-6的范围）getMonth返回的月份（0-11的范围）getYear会导致计算机千年虫的问题</span><br />
+              <span>3、Math.round四舍五入方法（并非数学上的四舍五入，不精确）Math.ceil和Math.floor向上和向下取整</span><br />
+              <span>4、setTimeout定时器和setInterval计时器，指定未来某段时间触发事件或循环触发事件，返回值是唯一标识id，通过clearTimeout或者clearInterval可以根据唯一标识id清除定时器</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 4 d
-- Total time: 15 h
+- Total days: 5 d
+- Total time: 19.5 h
 - Issues list:
   - none
