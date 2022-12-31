@@ -78,7 +78,7 @@
               <span>5、节点不等于元素，节点中包含元素节点，节点包含（元素、属性、文本、注释、document、fragement）</span>
             </td>
         </tr>
-         <tr>
+        <tr>
             <td>2022.12.29</td>
             <td>星期四</td>
             <td>
@@ -102,7 +102,7 @@
               <span>6、文档碎片它的创建不存在dom节点树当中，暂存于内存当中，通过它可以解决回流的问题提升性能</span>
             </td>
         </tr>
-         <tr>
+        <tr>
             <td>2022.12.30</td>
             <td>星期五</td>
             <td>
@@ -123,12 +123,32 @@
               <span>4、setTimeout定时器和setInterval计时器，指定未来某段时间触发事件或循环触发事件，返回值是唯一标识id，通过clearTimeout或者clearInterval可以根据唯一标识id清除定时器</span>
             </td>
         </tr>
+        <tr>
+            <td>2022.12.31</td>
+            <td>星期六</td>
+            <td>
+              <span>14:00-18:00</span><br />
+              <span>20:00-21:00</span>
+            </td>
+            <td>5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">滚动条</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">浏览器视口</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">元素位置信息</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">页面整体高度</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、浏览器兼容怪异模式和标准模式，标准模式由w3c通过DOCTYPE来规定，怪异模式由浏览器厂商来向后兼容，通过document.compactMode来区分不同模式，标准模式为CSS1Compat，怪异模式为BackCompat</span><br />
+              <span>2、实现阅读小说自动滚动功能</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 5 d
-- Total time: 19.5 h
+- Total days: 6 d
+- Total time: 24.5 h
 - Issues list:
   - none
