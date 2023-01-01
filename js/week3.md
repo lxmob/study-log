@@ -143,12 +143,32 @@
               <span>2、实现阅读小说自动滚动功能</span>
             </td>
         </tr>
+        <tr>
+            <td>2023.01.01</td>
+            <td>星期日</td>
+            <td>
+              <span>14:00-18:30</span>
+            </td>
+            <td>4.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">getComputedStyle</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">offsetWidth和el.style.width</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">操作伪元素</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/swiper.case.html">轮播图</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、getComputedStyle查看元素的计算样式值返回的是一个绝对值，存在兼容问题IE8及以下需要使用currentStyle来获取</span><br />
+              <span>2. offsetWidth和el.style.width查找的机制不一样，offsetWidth是通过底层渲染引擎大小来返回尺寸，而el.style.width是通过元素属性行内样式来获取尺寸大小</span><br />
+              <span>3、getComputedStyle读取伪元素属性传递第二个参数伪元素名称，通过设置className来操作伪元素样式</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 6 d
-- Total time: 24.5 h
+- Total days: 7 d
+- Total time: 29 h
 - Issues list:
   - none
