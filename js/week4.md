@@ -40,12 +40,39 @@
               <span>6、事件代理就是事件源通过冒泡的形式来触发祖父级身上绑定的相同事件处理函数</span>
             </td>
         </tr>
+        <tr>
+            <td>2023.01.05</td>
+            <td>星期四</td>
+            <td>
+              <span>16:00-18:00</span>
+            </td>
+            <td>2h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/todolist-module/js/index.js">todolist模块化</a>
+            </td>
+            <td>100%/100%</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2023.01.06</td>
+            <td>星期五</td>
+            <td>
+              <span>14:00-16:00</span><br />
+              <span>17:00-19:00</span>
+            </td>
+            <td>4h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/todolist-oo/js/index.js">todolist面向对象</a>
+            </td>
+            <td>100%/100%</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 1 d
-- Total time: 4 h
+- Total days: 3 d
+- Total time: 10 h
 - Issues list:
   - none
