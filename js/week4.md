@@ -67,12 +67,36 @@
             <td>100%/100%</td>
             <td></td>
         </tr>
+        <tr>
+            <td>2023.01.07</td>
+            <td>星期六</td>
+            <td>
+              <span>14:00-18:00</span><br />
+              <span>19:00-21:30</span>
+            </td>
+            <td>6.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.cursor.html">鼠标坐标属性</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.cursor.html">拖拽</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+              <span>1、clientX/Y 鼠标位置相对于浏览器视口的坐标（不包含滚动的距离）</span><br />
+              <span>2、x/y 同client相同，但是老版FF不支持</span><br />
+              <span>3、pageX/Y 鼠标位置相对于整个文档的坐标，但是IE9以下不支持（包含滚动的距离）</span><br />
+              <span>4、layerX/Y 同pageX相同，但是IE11以下同client相同（如果元素设置absolute、fixed、sticky同offset相同）</span><br />
+              <span>5、screenX/Y 鼠标位置相对于整个电脑屏幕的坐标</span><br />
+              <span>6、offsetX/Y 鼠标位置相对于当前元素的坐标（包含边框，safari不包含边框）</span><br />
+              <span>7、通过mousedown事件可以从事件对象中获取button属性来区分鼠标左中右键（0、1、2）</span><br />
+              <span>8、拖拽通过mousedown、mousemove、mouseup事件来实现</span>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 3 d
-- Total time: 10 h
+- Total days: 4 d
+- Total time: 16.5 h
 - Issues list:
   - none
