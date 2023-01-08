@@ -91,12 +91,26 @@
               <span>8、拖拽通过mousedown、mousemove、mouseup事件来实现</span>
             </td>
         </tr>
+        <tr>
+            <td>2023.01.08</td>
+            <td>星期日</td>
+            <td>
+              <span>14:00-17:00</span>
+            </td>
+            <td>3h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/jd-search-input/index.html">搜索框案例</a>
+            </td>
+            <td>100%/100%</td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 ## Learning details
 
-- Total days: 4 d
-- Total time: 16.5 h
+- Total days: 5 d
+- Total time: 19.5 h
 - Issues list:
   - none
