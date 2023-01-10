@@ -32,6 +32,20 @@
               <span>3、mouseover与mouseenter区别在于触发的时机和次数不一样，mouseenter通过冒泡形式仅触发一次该事件，mouseover可以理解为通过捕获的形式多次触发该事件</span>
             </td>
         </tr>
+        <tr>
+            <td>2023.01.10</td>
+            <td>星期二</td>
+            <td>
+              <span>20:00-22:30</span><br />
+            </td>
+            <td>2.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/jd-menu-sidebar/index.html">鼠标行为预测案例实战</a>
+            </td>
+            <td>100%/50%</td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
