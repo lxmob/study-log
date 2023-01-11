@@ -24,8 +24,8 @@
             </td>
             <td>2.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/class.array.html">类数组</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/typeof.html">typeof增强实现</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/07_class.array.html">类数组</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/10_typeof.html">typeof增强实现</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -42,10 +42,10 @@
             </td>
             <td>4.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/array.unique.html">数组unique</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.syntax.error.html">Error类型</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/ECMA.html">严格模式</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.gc.html">JSGC</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/06_array.unique.html">数组unique</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/08_Error.html">Error类型</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/02_ECMA.html">严格模式</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/07_GC.html">JSGC</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -64,10 +64,10 @@
             </td>
             <td>4h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/array.unique.html">数组flatten</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.html">dom初识</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.selector.html">dom元素选择器</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.gc.html">dom操作节点树属性和方法</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/06_array.unique.html">数组flatten</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/01_dom.html">dom初识</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/02_selector.html">dom元素选择器</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/03_elem.node.tree.html">dom操作节点树属性和方法</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -86,11 +86,11 @@
             </td>
             <td>4h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.proto.html">dom结构树</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.operation.node.html">dom操作节点</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.operation.attr.html">dom属性</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.gc.html">dom操作节点树属性和方法</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.fragment.html">fragment文档碎片</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/06_proto.html">dom结构树</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/04_operation.node.html">dom操作节点</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/05_operation.attr.html">dom属性</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/05_operation.attr.html">dom操作节点树属性和方法</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/07_fragment.html">fragment文档碎片</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -132,10 +132,10 @@
             </td>
             <td>5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">滚动条</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">浏览器视口</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">元素位置信息</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.scroll.viewport.html">页面整体高度</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/08_scroll.viewport.html">滚动条</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/08_scroll.viewport.html">浏览器视口</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/08_scroll.viewport.html">元素位置信息</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/08_scroll.viewport.html">页面整体高度</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -151,9 +151,9 @@
             </td>
             <td>4.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">getComputedStyle</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">offsetWidth和el.style.width</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.style.html">操作伪元素</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/09_elem.style.html">getComputedStyle</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/09_elem.style.html">offsetWidth和el.style.width</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/09_elem.style.html">操作伪元素</a><br />
               <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/swiper.case.html">轮播图</a>
             </td>
             <td>100%/100%</td>

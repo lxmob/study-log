@@ -23,7 +23,7 @@
             </td>
             <td>2.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">mouseover与mouseenter</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/12_mouseover.ennter.html">mouseover与mouseenter</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -40,9 +40,23 @@
             </td>
             <td>2.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/jd-menu-sidebar/index.html">鼠标行为预测案例实战</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/jd-menu-sidebar/index.html">鼠标行为预测案例（上）</a>
             </td>
             <td>100%/50%</td>
+            <td>
+            </td>
+        </tr>
+         <tr>
+            <td>2023.01.11</td>
+            <td>星期三</td>
+            <td>
+              <span>20:00-22:30</span><br />
+            </td>
+            <td>2.5h</td>
+            <td>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/example/jd-menu-sidebar/index.html">鼠标行为预测案例（下）</a>
+            </td>
+            <td>100%/80%</td>
             <td>
             </td>
         </tr>

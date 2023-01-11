@@ -23,12 +23,12 @@
             </td>
             <td>4h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">事件绑定</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">冒泡与捕获</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">阻止默认事件</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">阻止冒泡</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">事件对象</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.event.html">事件代理</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">事件绑定</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">冒泡与捕获</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">阻止默认事件</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">阻止冒泡</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">事件对象</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/10_event.html">事件代理</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -76,8 +76,8 @@
             </td>
             <td>6.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.cursor.html">鼠标坐标属性</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/dom.cursor.html">拖拽</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/11_cursor.method.html">鼠标坐标属性</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/dom/11_cursor.method.html">拖拽</a>
             </td>
             <td>100%/100%</td>
             <td>

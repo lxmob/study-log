@@ -25,10 +25,10 @@
             </td>
             <td>5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/closure.html">闭包</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/IIFE.html">IIFE</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/comma.operator.html">逗号运算符</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/parenthesis.operator.html">括号表达式</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/04_closure.html">闭包</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/05_IIFE.html">IIFE</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/03_js.syntax.html">逗号运算符</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/03_js.syntax.html">括号表达式</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -47,10 +47,10 @@
             </td>
             <td>6h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.html">对象</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.html">构造函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.wrap.html">包装类</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.html">原型</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/01_object.html">对象</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/01_object.html">构造函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/02_object.wrap.html">包装类</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/03_object.proto.html">原型</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -70,12 +70,12 @@
             </td>
             <td>8.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.html">原型链</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.create.html">原型继承</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/pure.fn.html">纯函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/callback.html">回调函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/call.apply.bind.html">call/apply</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.proto.extend.grail.html">原型继承之圣杯模式</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/03_object.proto.html">原型链</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/04_object.create.html">原型继承</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/11_pure.fn.html">纯函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/07_callback.html">回调函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/09_call.apply.bind.html">call/apply</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/05_object.proto.extend.grail.html">原型继承之圣杯模式</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -111,11 +111,11 @@
             </td>
             <td>6.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/hasOwnProperty.html">forin</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/instanceof.html">instanceof</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/this.html">this</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/arrow.fn.html">箭头函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/callee.caller.html">callee/caller</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/07_hasOwnProperty.html">forin</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/06_instanceof.html">instanceof</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/06_global.this.html">this</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/10_arrow.fn.html">箭头函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/08_callee.caller.html">callee/caller</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -134,9 +134,9 @@
             </td>
             <td>5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.clone.html">clone</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/object.clone.html">JSON序列化</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/array.method.html">array methods</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/09_object.clone.html">clone</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/object/09_object.clone.html">JSON序列化</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/array/02_method.change.html">array methods</a>
             </td>
             <td>100%/100%</td>
             <td>

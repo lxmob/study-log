@@ -25,11 +25,11 @@
             </td>
             <td>6h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/browser.html">浏览器发展史和内核</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/ECMA.html">ECMA</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/ECMA.html">轮转时间片</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.syntax.html">变量堆栈</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/js.syntax.html">语法规范运算符</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/01_browser.html">浏览器发展史和内核</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/02_ECMA.html">ECMA</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/02_ECMA.html">轮转时间片</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/03_js.syntax.html">变量堆栈</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/03_js.syntax.html">语法规范运算符</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -50,8 +50,8 @@
             </td>
             <td>3.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/for.html">循环语句</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/type.convert.html">显示类型和隐士类型转换</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/04_for.html">循环语句</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/base/05_type.convert.html">显示类型和隐士类型转换</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -70,10 +70,10 @@
             </td>
             <td>4.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/fn.html">认识函数</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/fn.html">函数写法</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/fn.html">函数行参和实参</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/fn.html">return关键字</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/01_fn.html">认识函数</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/01_fn.html">函数写法</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/01_fn.html">函数行参和实参</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/01_fn.html">return关键字</a>
             </td>
             <td>100%/100%</td>
             <td>
@@ -92,10 +92,10 @@
             </td>
             <td>5.5h</td>
             <td>
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/precompile.html">预编译</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/precompile.html">GO</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/precompile.html">AO</a><br />
-              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/scope.html">作用域和链</a>
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/02_precompile.html">预编译</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/02_precompile.html">GO</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/02_precompile.html">AO</a><br />
+              <a href="https://github.com/lxmob/blog/blob/main/js%2B%2B/function/03_scope.html">作用域和链</a>
             </td>
             <td>100%/100%</td>
             <td>
